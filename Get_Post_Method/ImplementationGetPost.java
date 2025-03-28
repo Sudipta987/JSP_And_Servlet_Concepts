@@ -1,3 +1,5 @@
+//Q1 : W.A.P to create a basic login page using only Servlet.
+//Servlet to handle login
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
